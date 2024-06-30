@@ -17,4 +17,4 @@ ________________________________________________________________________________
       remotly => git push remote_name --delete tag_name
 _______________________________________________________________________________________
 # Add an image in the README.md file.
-![Git!](image.webp)
+![GIT!](Logo_of_Github.jpg)
