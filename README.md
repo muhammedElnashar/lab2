@@ -1,4 +1,4 @@
-Tell me how to remove them locally and remotely.
+# Tell me how to remove them locally and remotely.
 local branch
               => git branch -d branch_name 
               => git branch -D branch name => force delete 
@@ -6,14 +6,15 @@ Remote branch
               => git push remote_name --d branch_name 
               => git push remote_name  :branch_name 
 _______________________________________________________________________________________
-Tell me how to checkout another branch without commit changes
+# Tell me how to checkout another branch without commit changes
               => git checkout -f branch_name
 _______________________________________________________________________________________
-Tell me how to list tags.
+# Tell me how to list tags.
               => git tag 
 _______________________________________________________________________________________
-Tell me how to delete tag locally and remotely.
+# Tell me how to delete tag locally and remotely.
        localy => git tag -d tag_name
       remotly => git push remote_name --delete tag_name
 _______________________________________________________________________________________
-Add an image in the README.md file.
+# Add an image in the README.md file.
+![Git!](image.webp)
